@@ -1,0 +1,30 @@
+Sequence ATGCGTAACGTT
+  Length: 12
+  GC Content: 41.67%
+  Valid: True
+  Reverse Complement: AACGTTACGCAT
+----------------------------------------
+Sequence CGTATGCAT
+  Length: 9
+  GC Content: 44.44%
+  Valid: True
+  Reverse Complement: ATGCATACG
+----------------------------------------
+Sequence TTGCAAGGCTA
+  Length: 11
+  GC Content: 45.45%
+  Valid: True
+  Reverse Complement: TAGCCTTGCAA
+----------------------------------------
+Sequence AGTGCCTAG
+  Length: 9
+  GC Content: 55.56%
+  Valid: True
+  Reverse Complement: CTAGGCACT
+----------------------------------------
+Sequence ATGCGTRAC
+  Length: 9
+  GC Content: 44.44%
+  Valid: False
+  Reverse Complement: GTYACGCAT
+----------------------------------------
