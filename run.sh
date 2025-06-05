@@ -2,6 +2,7 @@
 #
 mkdir sequence_stats_project
 conda create -n hw1 python=3.10
+conda activate hw1
 pip install biopython
 git init
 git add run.sh
